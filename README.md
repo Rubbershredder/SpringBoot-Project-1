@@ -7,6 +7,12 @@ This Spring Boot application provides RESTful APIs for managing job listings. It
 - Retrieve all job posts
 - Search for job posts based on text criteria
 
+- ![image](https://github.com/user-attachments/assets/4435ffdc-213d-44e7-adbb-214b538be6b6)
+
+- ![image](https://github.com/user-attachments/assets/dfc4fa36-3009-4fb5-8192-27dc36a6f661)
+
+
+
 ## Prerequisites
 - Java Development Kit (JDK) 17 or higher
 - Maven 3.6 or higher
