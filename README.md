@@ -142,6 +142,3 @@ Main dependencies include:
 - MongoDB Driver Sync
 
 Ensure these are included in your `pom.xml`.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
